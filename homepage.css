@@ -1,0 +1,93 @@
+/* CSS files add styling rules to your content */
+.logo {
+  object-fit: cover;
+  width: 30%;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 6%;
+  padding-left: 5%;
+  padding-top: 2%;
+  font-size: 2vw;
+  font-family: "Karla", sans-serif;
+  font-weight: bold;
+  
+}
+
+a:link {
+  text-decoration: none;
+}
+
+/* .trouble {
+  color: FF5252;
+}
+
+.focus {
+  color: FFAF38;
+} */
+
+.trouble {
+  color: #FF5252;
+}
+
+.focus {
+  color: #FFAF38;
+}
+.need {
+  color: #86E3E3;
+}
+
+.header {
+  
+/*   height: 13vw; */
+  text-align: center;
+  background: #FF5252;
+  color: white;
+  font-size: 30px;
+  
+}
+
+p {
+  margin-left: 4vw;
+  margin-right: 10vw;
+    font-size: 4.9vw;
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+text-align: left;
+    padding-left: 7vw;
+    padding-top: 3vw;
+
+}
+
+
+.flex-containertwo {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 4vw;
+  padding-right: 4vw;
+}
+
+.flex-containertwo > div {
+  background: #86E3E3;
+  
+  
+  width: 2vw;
+  height: 2vw;
+  font-size: 30px;
+}
+
+.about {
+  
+  height: 13vw;
+  text-align: left;
+  background: #4B0054;
+  color: white;
+  font-size: 30px;
+  
+  
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
