@@ -1,0 +1,77 @@
+.logo {
+    object-fit: cover;
+    width: 30%;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 6%;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: 2vw;
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    padding-bottom: 0%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.trouble {
+    color: FF5252;
+}
+
+.focus {
+    color: FFAF38;
+}
+
+.need {
+    color: #86E3E3;
+}
+
+.header {
+    height: 13vw;
+    text-align: center;
+    background: #FF5252;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 1vw;
+}
+
+p {
+    font-size: 6vw;
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    padding-left: 7vw;
+    padding-top: 3vw;
+}
+
+/* .flex-containertwo {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 4vw;
+    padding-right: 4vw;
+}
+
+.flex-containertwo>div {
+    background: #86E3E3;
+    margin: 10px;
+    padding: 6vw;
+    width: 2vw;
+    height: 2vw;
+    font-size: 30px;
+} */
+
+h4 {
+    font-size: 2vw;
+    font-family: 'Karla', sans-serif;
+    font-weight: bold;
+    text-align: justify;
+    padding-left: 7vw;
+    padding-top: 3vw;
+    padding-right: 7vw;
+}
